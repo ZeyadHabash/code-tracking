@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Cinemachine.csproj": {}
+  },
+  "projects": {
+    "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Cinemachine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Cinemachine.csproj",
+        "projectName": "Cinemachine",
+        "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Cinemachine.csproj",
+        "packagesPath": "C:\\Users\\shoro\\.nuget\\packages\\",
+        "outputPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Temp\\obj\\Debug\\Cinemachine\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.InputSystem.csproj": {
+                "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.InputSystem.csproj"
+              },
+              "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.Postprocessing.Runtime.csproj": {
+                "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.Postprocessing.Runtime.csproj"
+              },
+              "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.Timeline.csproj": {
+                "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.Timeline.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+... (truncated for brevity)

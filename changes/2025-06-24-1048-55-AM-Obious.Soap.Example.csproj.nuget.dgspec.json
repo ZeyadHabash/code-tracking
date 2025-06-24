@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Obious.Soap.Example.csproj": {}
+  },
+  "projects": {
+    "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Obious.Soap.Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Obious.Soap.Example.csproj",
+        "projectName": "Obious.Soap.Example",
+        "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Obious.Soap.Example.csproj",
+        "packagesPath": "C:\\Users\\shoro\\.nuget\\packages\\",
+        "outputPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Temp\\obj\\Debug\\Obious.Soap.Example\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Obvious.Soap.csproj": {
+                "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Obvious.Soap.csproj"
+              },
+              "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Obvious.Soap.Editor.csproj": {
+                "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Obvious.Soap.Editor.csproj"
+              },
+              "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.TextMeshPro.csproj": {
+                "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.TextMeshPro.csproj"
+              },
+              "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.TextMeshPro.Editor.csproj": {
+                "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.TextMeshPro.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+... (truncated for brevity)

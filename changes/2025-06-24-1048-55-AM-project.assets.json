@@ -1,0 +1,51 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Unity.InputSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.InputSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.InputSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unity.InputSystem/1.0.0": {
+      "type": "project",
+      "path": "Unity.InputSystem.csproj",
+      "msbuildProject": "Unity.InputSystem.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Unity.InputSystem >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\shoro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.VisualScripting.Core.csproj",
+      "projectName": "Unity.VisualScripting.Core",
+      "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.VisualScripting.Core.csproj",
+      "packagesPath": "C:\\Users\\shoro\\.nuget\\packages\\",
+      "outputPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Temp\\obj\\Debug\\Unity.VisualScripting.Core\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\shoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+... (truncated for brevity)

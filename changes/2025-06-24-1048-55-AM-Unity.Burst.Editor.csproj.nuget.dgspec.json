@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.Burst.Editor.csproj": {}
+  },
+  "projects": {
+    "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.Burst.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.Burst.csproj",
+        "projectName": "Unity.Burst",
+        "projectPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Unity.Burst.csproj",
+        "packagesPath": "C:\\Users\\shoro\\.nuget\\packages\\",
+        "outputPath": "D:\\Important stuff\\Unity stuff\\Unity Projects\\Uni Projects\\Mini Project 1\\Infinite Runner Game\\Temp\\obj\\Debug\\Unity.Burst\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+... (truncated for brevity)
